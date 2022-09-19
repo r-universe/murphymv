@@ -1,9 +1,5 @@
 [
   {
-    "package": "dissCqN",
-    "oncran": true
-  },
-  {
     "package": "semEff",
     "oncran": true
   }
